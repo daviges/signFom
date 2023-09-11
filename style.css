@@ -1,0 +1,14 @@
+*{
+    display: flex;
+    background-color: white;
+}
+nav ul li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+h1 .dot{
+    color: orange;
+}
